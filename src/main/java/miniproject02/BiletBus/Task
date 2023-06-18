@@ -1,0 +1,24 @@
+
+Project:
+Mesafeye ve sartlara gore otobus bileti fiyati
+hesaplayan uygulama
+Kullanicidan (KM)
+yasi
+yolculuk tipi(Tek Yon,Gidis Donus)
+
+Mesafe basina ucret 0.1 tl /km olarak alin
+(Gidis Donus*2)
+Ilk olarak yolculugun toplam fiyatini hesaplayin
+ve sonrasinda ki kosullara gore musteriye asagida ki kurallari uygulayin
+
+Kullanicidan alinan degerler gecerli
+(mesafe ve yas degerleri pozizitif sayi yolculuk tipi 1 v 2 olmalidir
+Aksi takdirde hatali girdiniz
+
+1-Gidis Donus olursa %20 indirimli uygulanir
+
+2-Kisi 12 yasindan kucukse bilet fiyati uzerinden %50 indirim uygulanir
+
+3-Kisi 12-24 yas arasinda ise %10 indirim uygulanir
+
+4-Kisi 65 yas ustu ise %30 indirim uygulanir
